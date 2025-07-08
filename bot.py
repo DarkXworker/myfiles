@@ -6,12 +6,12 @@ import string
 import threading
 from telebot import types
 
-API_KEY = os.getenv("API_KEY")
+API_KEY = os.getenv("7955005338:AAH_du7Yrv-fEDw_k4CzG6wf320Nk_AYnZk")
 bot = telebot.TeleBot(API_KEY)
 bot.delete_webhook()
 
 bot_id = 'DEVSUDIPX'
-admin_ids = [7967175667]
+admin_ids = [8152800474]
 channel_username = "@yourcahnneluser"
 
 admin_uploads = {}
