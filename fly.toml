@@ -1,0 +1,4 @@
+app = "telegram-file-bot"
+
+[env]
+  API_KEY = "your-telegram-bot-token"
